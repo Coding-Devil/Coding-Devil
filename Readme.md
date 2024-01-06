@@ -4,11 +4,6 @@ Hi 👋 My name is Gokulnath V
 Web Developer & Data Science Rookie
 -----------------------------------
 
-* 🌍  I'm based in Bangalore,India
-* 🖥️  See my portfolio at [Portfolio](http://https://gokul-portfolio-white.vercel.app/)
-* ✉️  You can contact me at [whitewolfwayne@gmail.com](mailto:whitewolfwayne@gmail.com)
-* 🤝  I'm open to collaborating on Web development & Machine learning applications
-
 ⚡  Code is coming. The bugs are gathering. I am the watcher on the firewall. I am the developer in the darkness. I am Batman
 
 ## Skills :
