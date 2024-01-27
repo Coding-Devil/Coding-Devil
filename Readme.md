@@ -1,7 +1,7 @@
-![Header](./header-image.png)
+![Header](./7270403.gif)
+Hi! I am Gokulnath V
 ===================================================================================================================================
-
-Web Developer & Data Science Rookie
+Proficient Web Developer & Data Science Rookie
 -----------------------------------
 
 ⚡  Code is coming. The bugs are gathering. I am the watcher on the firewall. I am the developer in the darkness. I am Batman
