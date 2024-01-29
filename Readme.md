@@ -1,10 +1,10 @@
 ![Header](./7270403.gif)
-Hi! I am Gokulnath V
+Hi! ☺️ I am Gokulnath V
 ===================================================================================================================================
 Proficient Web Developer & Data Science Rookie
 -----------------------------------
 
-⚡  Code is coming. The bugs are gathering. I am the watcher on the firewall. I am the developer in the darkness. I am the Guardian of Git
+⚡  Code is coming, the bugs are gathering. I am the watcher on the firewall. The developer in the darkness. I am the Guardian of Git
 
 ## Skills :
 <p align="left">
