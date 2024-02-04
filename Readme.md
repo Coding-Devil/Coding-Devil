@@ -1,11 +1,11 @@
 ![Header](./7270403.gif)
 # Hi!☺️ I am Gokulnath V
 
-## Proficient Web Developer & Data Science Rookie
+## Proficient Web Developer & Data Science Rookie 🌠
 
 ⚡  Code is coming, the bugs are gathering. I am the watcher on the firewall. The developer in the darkness. I am the Guardian of Git
 
-## Skills :
+## Tech Arsenal 🚀 :
 ### Languagues : 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
