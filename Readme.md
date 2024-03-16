@@ -58,7 +58,7 @@
 #### Alchemist's Tools:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 
@@ -68,7 +68,7 @@
 ### 🌐 Socials:
 
 <p align="center"> 
-  <a href="https://www.github.com/Coding-Devil"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/Coding-Devil"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a>
   <a href="http://www.instagram.com/bujjii03"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/gokulnath-v-2003g"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
