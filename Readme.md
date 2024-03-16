@@ -1,6 +1,6 @@
 # Hi there! 😊 I'm Gokulnath V
 
-## 🌌 Web Artisan & Data Science Rookie 🌌
+## 🌌 Web Developer & Aspiring Data Scientist 🌟
 
 ![Coding in Action](./7270403.gif)
 
