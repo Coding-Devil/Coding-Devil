@@ -58,7 +58,7 @@
 #### Alchemist's Tools:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
 </p>
 
 
