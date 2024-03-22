@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="margin-right: 10px;" />
 </p>
 
-#### Web Tools & Frameworks : &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  Python Libraries :
+#### Web Tools & Frameworks :                                                                                           #### Python Libraries :
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="Tailwind" />
