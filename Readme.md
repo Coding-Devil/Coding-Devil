@@ -1,6 +1,6 @@
 # Hi there! 😊 I'm Gokulnath V
 
-##I'm a 20 year old Web Developer & and I'm passionate about Data Science 🌟
+## I'm a 20 year old Web Developer & and I'm passionate about Data Science 🌟
 
 ![Coding in Action](./7270403.gif)
 
