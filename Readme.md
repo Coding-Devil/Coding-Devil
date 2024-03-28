@@ -10,7 +10,7 @@
 
 ### 🛠 Tech Toolbox 🛠
 
-<h2> Languages I Work On: </h2>
+#### Languages I Work On:
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="margin-right: 10px;" />
