@@ -1,6 +1,5 @@
  ## Hey, I'm Gokulnath V 👋🏽
-
- ---
+---
 ### I'm a 20 year old Computer Science Engineer🌟
 
 "In the digital realm, I’m not just an engineer; I’m a storyteller, a code wizard with Python as my wand, and data science my spellbook. Frontend development isn't just work—it's where I paint the future, pixel by pixel, turning data into dreams and challenges into triumphs."
