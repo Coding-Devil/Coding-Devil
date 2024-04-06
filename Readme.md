@@ -7,11 +7,13 @@
 ---
 ## I'm a 20 year old Computer Science Engineer🌟
 
-`
 "In the digital realm, I’m not just an engineer; I’m a storyteller, a code wizard with Python as my wand, and data science my spellbook. Frontend development isn't just work—it's where I paint the future, pixel by pixel, turning data into dreams and challenges into triumphs."
 
-Sometimes, the way we frame our passions can turn the page. Keep your spark alive, and the right audience will find it anything but boring!
-`
+- 🔭 I'm focused on refining my expertise in Data science & Full Stack .
+- 📑 Currently diving into learning advanced concepts of Machine Learning.
+- 👯 Happy to collaborate on open-source projects related to data science and web development.
+
+
 ### My Tech Toolbox : 🛠
 
 **Languages I Work With :** ``Python`` ``Java`` ``C`` ``C++`` ``JavaScript`` ``R`` ``PHP`` ``HTML5`` ``CSS3``
@@ -25,7 +27,14 @@ Sometimes, the way we frame our passions can turn the page. Keep your spark aliv
 **Control Tools :** ``Git`` ``Photoshop`` `MS Office` `Vercel` `VS Code`
 
 ---
+## ✨ Fun Facts 
 
+- Im a *Movie lover* 📽️😍 & a highly motivated *Sports Enthusiat* ⚽🏏
+- Always the `Netflix n chill` kinda guy on weekends.
+- Demon Slayer is my favorite anime.
+- As a kid, I wanted to grow up to be like Tony Stark.
+- I love Coding & working on projects, clears all of my inner voices
+---
 ### 🌐 Socials:
 
 <p align="left" style="display: flex; justify-content: center; gap: 30px;"> 
