@@ -9,9 +9,9 @@
 ---
 
 ### 🛠 Tech Toolbox 🛠
-```
+
 #### Languages I Work On:
-```
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="margin-right: 10px;" />
@@ -27,6 +27,7 @@
 
 #### Libraries & Frameworks :
 <p align="left">
+ `Python`
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="Tailwind" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
