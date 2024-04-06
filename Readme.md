@@ -14,21 +14,21 @@ Sometimes, the way we frame our passions can turn the page. Keep your spark aliv
 `
 ### My Tech Toolbox : 🛠
 
-**Languages I Work With:** ``Python`` ``Java`` ``C`` ``C++`` ``JavaScript`` ``R`` ``PHP`` ``HTML5`` ``CSS3``
+**Languages I Work With :** ``Python`` ``Java`` ``C`` ``C++`` ``JavaScript`` ``R`` ``PHP`` ``HTML5`` ``CSS3``
 
-**Libraries & Frameworks:** ``React`` ``Tailwind`` ``Angular`` ``Bootstrap`` ``NodeJS`` ``Next.js`` ``Express``
+**Libraries & Framework :** ``React`` ``Tailwind`` ``Angular`` ``Bootstrap`` ``NodeJS`` ``Next.js`` ``Express``
 
-**Python Libraries:** ``Pandas`` ``TensorFlow`` ``PyTorch`` ``Scikit Learn``
+**Python Libraries :** ``Pandas`` ``TensorFlow`` ``PyTorch`` ``Scikit Learn``
 
-**Databases & Cloud Services:** ``MySQL`` ``MongoDB`` ``AWS`` ``Google Cloud`` ``Azure``
+**Databases & Cloud :** ``MySQL`` ``MongoDB`` ``AWS`` ``Google Cloud`` ``Azure``
 
-**Other Tools:** ``Git`` ``Photoshop`` `MS Office` `Vercel` `VS Code`
+**Control Tools :** ``Git`` ``Photoshop`` `MS Office` `Vercel` `VS Code`
 
 ---
 
 ### 🌐 Socials:
 
-<p align="left" style="display: flex; justify-content: center; gap: 20px;"> 
+<p align="left" style="display: flex; justify-content: center; gap: 30px;"> 
   <a href="https://www.github.com/Coding-Devil"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a> &nbsp &nbsp
   <a href="http://www.instagram.com/bujjii03"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp &nbsp
   <a href="https://www.linkedin.com/in/gokulnath-v-2003g"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
