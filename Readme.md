@@ -1,4 +1,4 @@
- ### Hey, I'm Gokulnath V 👋🏽
+ ## Hey, I'm Gokulnath V 👋🏽
 
 ![Coding in Action](./7270403.gif)
 
@@ -9,12 +9,13 @@
 
 "In the digital realm, I’m not just an engineer; I’m a storyteller, a code wizard with Python as my wand, and data science my spellbook. Frontend development isn't just work—it's where I paint the future, pixel by pixel, turning data into dreams and challenges into triumphs."
 
-- 🔭 I'm focused on refining my expertise in Data science & Full Stack .
-- 📑 Currently diving into learning advanced concepts of Machine Learning.
-- 👯 Happy to collaborate on open-source projects related to data science and web development.
+- 🔭 I'm focused on refining my expertise in Data science & Full Stack
+- 📑 Currently diving into learning advanced concepts of Machine Learning
+- 👯 Happy to collaborate on open-source projects related to data science and web development
+- 🌟 Check out my [website](https://gokulnath-v-portfolio.vercel.app/) to learn more about me.
+---
 
-
-### My Tech Toolbox : 🛠
+### My Toolbox : 🛠
 
 **Languages I Work With :** ``Python`` ``Java`` ``C`` ``C++`` ``JavaScript`` ``R`` ``PHP`` ``HTML5`` ``CSS3``
 
