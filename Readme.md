@@ -29,7 +29,7 @@
 **Control Tools :** ``Git`` `Power BI` ``Photoshop`` `MS Office` `Vercel` `VS Code`
 
 ---
-## ✨ Fun Facts 
+### ✨ Fun Facts 
 
 - Im a *Movie lover* 📽️😍 & a highly motivated *Sports Enthusiat* ⚽🏏
 - Always the `Netflix n chill` kinda guy on weekends.
