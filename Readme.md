@@ -22,11 +22,11 @@
 
 **Libraries & Framework :** ``React`` ``Tailwind`` ``Angular`` ``Bootstrap`` ``NodeJS`` ``Next.js`` ``Express``
 
-**Python Libraries :** ``Pandas`` ``TensorFlow`` ``PyTorch`` ``Scikit Learn``
+**Python Libraries :** ``Pandas`` ``TensorFlow`` ``PyTorch`` ``Scikit Learn`` `Matplotlib`
 
 **Databases & Cloud :** ``MySQL`` ``MongoDB`` ``AWS`` ``Google Cloud`` ``Azure``
 
-**Control Tools :** ``Git`` ``Photoshop`` `MS Office` `Vercel` `VS Code`
+**Control Tools :** ``Git`` `Power BI` ``Photoshop`` `MS Office` `Vercel` `VS Code`
 
 ---
 ## ✨ Fun Facts 
@@ -35,10 +35,8 @@
 - Always the `Netflix n chill` kinda guy on weekends.
 - Demon Slayer is my favorite anime.
 - As a kid, I wanted to grow up to be like Tony Stark.
-- I love Coding & working on projects, clears all of my inner voices
 ---
-### 🌐 Socials:
-
+### Connect
 <p align="center" style="display: flex; justify-content: center; gap: 30px;"> 
   <a href="https://www.github.com/Coding-Devil"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a> &nbsp &nbsp
   <a href="http://www.instagram.com/bujjii03"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp &nbsp
