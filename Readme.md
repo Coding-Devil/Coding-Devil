@@ -32,11 +32,11 @@
 ### ✨ Fun Facts 
 
 - Im a *Movie lover* 📽️😍 & a highly motivated *Sports Enthusiat* ⚽🏏
-- Always the `Netflix n chill` kinda guy on weekends.
+- Always the **Netflix n chill** kinda guy on weekends.
 - Demon Slayer is my favorite anime.
 - As a kid, I wanted to grow up to be like Tony Stark.
 ---
-### Connect
+### 🤝 Connect
 <p align="center" style="display: flex; justify-content: center; gap: 30px;"> 
   <a href="https://www.github.com/Coding-Devil"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a> &nbsp &nbsp
   <a href="http://www.instagram.com/bujjii03"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp &nbsp
