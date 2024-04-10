@@ -36,8 +36,6 @@
 - Demon Slayer is my favorite anime.
 - As a kid, I wanted to grow up to be like Tony Stark.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/iMlxBLNcvorRCMyNoi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-pixel-8bit-iMlxBLNcvorRCMyNoi">via GIPHY</a></p>
-
 ---
 ### 🤝 Connect
 <p align="center" style="display: flex; justify-content: center; gap: 30px;"> 
