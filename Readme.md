@@ -2,8 +2,8 @@
 
 ### I'm a 20 year old Computer Science Engineer🌟
 
+&emsp;📊 *Data Science Enthusiast* - 💻 *Web Development Wizard* - 🤖 *Prompt Engineer*
 #### 🌟**About Me:** 
-&emsp;📊 *Data Science Enthusiast* - 💻 *Web Development Wizard* - 🤖 *Machine Learning Advocate*
 
 Explorer by day and an avid dreamer by night, currently navigating the thrilling world of software engineering with a heart full of code and eyes set on the stars. 
 I'm someone who believes that technology isn't just about solving problems—it's about telling a story, creating something out of nothing, and making magic with algorithms. My coding journey is a blend of rigorous analysis, creative problem-solving, and building scalable solutions that speak.
