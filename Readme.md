@@ -2,11 +2,8 @@
 
 ### I'm a 20 year old Computer Science Engineer🌟
 
-Explorer by day and an avid dreamer by night, currently navigating the thrilling world of software engineering with a heart full of code and eyes set on the stars. With a Bachelor’s degree tucked under my arm and an insatiable curiosity to explore the digital universe, I’ve embarked on an odyssey where data science meets web development, and machine learning scripts the future.
-
 🌟 **About Me:**
-
-I'm someone who believes that technology isn't just about solving problems—it's about telling a story, creating something out of nothing, and making magic with algorithms. My coding journey is a blend of rigorous analysis, creative problem-solving, and building scalable solutions that speak.
+Explorer by day and an avid dreamer by night, currently navigating the thrilling world of software engineering with a heart full of code and eyes set on the stars. With a Bachelor’s degree tucked under my arm and an insatiable curiosity to explore the digital universe, I’ve embarked on an odyssey where data science meets web development, and machine learning scripts the future.
 
 - 📊 **Data Science Enthusiast:** I find joy in wrangling data to reveal its secrets. From predictive modeling to neural networks, each dataset tells a story waiting to be discovered.
 - 💻 **Web Development Wizard:** Frontend, backend, you name it. I build sleek, responsive websites that breathe life into ideas and connect people.
