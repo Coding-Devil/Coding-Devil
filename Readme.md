@@ -5,7 +5,7 @@
 &emsp; 📊 *Data Science Enthusiast* - 💻 *Web Dev Wizard* - 🤖 *Prompt Engineer*
 ### 🌟**About Me:** 
 
-Explorer by day and an avid dreamer by night, currently navigating the thrilling world of software engineering with a heart full of code and eyes set on the stars. 
+Explorer by day and an avid dreamer by night, currently navigating the thrilling world of software engineering with a heart full of code and eyes set on the stars. ✨
 I'm someone who believes that technology isn't just about solving problems—it's about telling a story, creating something out of nothing, and making magic with algorithms. My coding journey is a blend of rigorous analysis, creative problem-solving, and building scalable solutions that speak.
 
 
