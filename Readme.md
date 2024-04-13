@@ -2,7 +2,7 @@
 
 ### I'm a 20 year old Computer Science Engineer🌟
 
-#### &ensp; 📊 *Data Science Enthusiast* - 💻 *Web Dev Wizard* - 🤖 *Prompt Engineer*
+ &ensp; 📊 *Data Science Enthusiast* - 💻 *Web Dev Wizard* - 🤖 *Prompt Engineer*
 ### 🌟**About Me:** 
 
 Explorer by day and an avid dreamer by night, currently navigating the thrilling world of software engineering with a heart full of code and eyes set on the stars. ✨
