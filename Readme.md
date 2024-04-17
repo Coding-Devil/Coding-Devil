@@ -38,8 +38,7 @@ I'm someone who believes that technology isn't just about solving problems —it
 
 - Im a *Movie lover* 📽️😍 & a highly motivated *Sports Enthusiat* ⚽🏏
 - Always the **Netflix n chill** kinda guy on weekends.
-- Demon Slayer is my favorite anime.
-- As a kid, I wanted to grow up to be like Tony Stark.
+- As a kid, I wanted to grow up to be like Tony Stark 
 
 ---
 ### 🤝 Connect
