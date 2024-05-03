@@ -35,7 +35,6 @@ I'm someone who believes that technology isn't just about solving problems —it
 **Control Tools :** ``Git`` `Power BI` ``Photoshop`` `MS Office` `Vercel` `VS Code`
 
 ---
- to be like Tony Stark and Bruce Wayne.
 
 ---
 ### 🤝 Connect
