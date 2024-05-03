@@ -13,6 +13,7 @@ I'm someone who believes that technology isn't just about solving problems —it
 - 📑 Currently diving into learning advanced concepts of Machine Learning
 - 👯 Happy to collaborate on open-source projects related to data science and web development
 - 🌟 Check out my [website](https://gokulnath-v-portfolio.vercel.app/) to learn more about me.
+- ✨ Fun Fact : Im a *Movie lover* 📽️😍 & a highly motivated *Sports Enthusiat* ⚽🏏
 ---
 
 ![Coding in Action](./7270403.gif)
@@ -36,7 +37,7 @@ I'm someone who believes that technology isn't just about solving problems —it
 ---
 ### ✨ Fun Facts 
 
-- Im a *Movie lover* 📽️😍 & a highly motivated *Sports Enthusiat* ⚽🏏
+- 
 - As a kid, I wanted to grow up to be like Tony Stark and Bruce Wayne.
 
 ---
