@@ -35,8 +35,6 @@ I'm someone who believes that technology isn't just about solving problems —it
 **Control Tools :** ``Git`` `Power BI` ``Photoshop`` `MS Office` `Vercel` `VS Code`
 
 ---
-
----
 ### 🤝 Connect
 <p align="center" style="display: flex; justify-content: center; gap: 30px;"> 
   <a href="https://www.github.com/Coding-Devil"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a> &nbsp &nbsp
