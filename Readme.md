@@ -35,10 +35,7 @@ I'm someone who believes that technology isn't just about solving problems —it
 **Control Tools :** ``Git`` `Power BI` ``Photoshop`` `MS Office` `Vercel` `VS Code`
 
 ---
-### ✨ Fun Facts 
-
-- 
-- As a kid, I wanted to grow up to be like Tony Stark and Bruce Wayne.
+ to be like Tony Stark and Bruce Wayne.
 
 ---
 ### 🤝 Connect
