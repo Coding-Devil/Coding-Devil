@@ -9,7 +9,7 @@ Explorer by day and an avid dreamer by night, currently navigating the thrilling
 I'm someone who believes that technology isn't just about solving problems —it's about telling a story, creating something out of nothing and building scalable solutions that speak.
 
 
-- 🔭 I'm focused on refining my expertise in Data science & Full Stack
+- 🔭 I'm focused on refining my expertise in Data science & Cloud Services
 - 📑 Currently diving into learning advanced concepts of Machine Learning
 - 👯 Happy to collaborate on open-source projects related to data science and web development
 - 🌟 Check out my [website](https://gokulnath-v-portfolio.vercel.app/) to learn more about me.
