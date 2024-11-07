@@ -12,7 +12,7 @@ I'm someone who believes that technology isn't just about solving problems —it
 - 🔭 I'm focused on refining my expertise in Data science & Cloud Services
 - 📑 Currently diving into learning advanced concepts of Machine Learning
 - 👯 Happy to collaborate on open-source projects related to data science and web development
-- 🌟 Check out my [website](https://gokulnath-v-portfolio.vercel.app/) to learn more about me.
+- 🌟 Check out my [website](https://gokulnath.tech/) to learn more about me.
 - ✨ Fun Fact : Im a *Movie lover* 📽️😍 & a highly motivated *Sports Enthusiat* ⚽🏏
 ---
 
