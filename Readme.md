@@ -8,13 +8,12 @@
 Explorer by day and an avid dreamer by night, currently navigating the thrilling world of software engineering with a heart full of code and eyes set on the stars. ✨
 I'm someone who believes that technology isn't just about solving problems —it's about telling a story, creating something out of nothing and building scalable solutions that speak.
 
+### 🌟 What I'm Up To:
 
-- 🔭 I'm focused on refining my expertise in Data science & Cloud Services
-- 📑 Currently diving into learning advanced concepts of Machine Learning
-- 👯 Happy to collaborate on open-source projects related to data science and web development
-- 🌟 Check out my [website](https://gokulnath.tech/) to learn more about me.
-- ✨ Fun Fact : Im a *Movie lover* 📽️😍 & a highly motivated *Sports Enthusiat* ⚽🏏
----
+- 🔭 **Currently refining:** My expertise in **Data Science** and **Cloud Services**  
+- 📚 **Exploring:** Advanced concepts in **Machine Learning** and **AI**  
+- 🤝 **Collaborating on:** Open-source projects in **Data Science** and **Web Development**  
+- 🌍 **Sharing my journey:** [gokulnath.tech](https://gokulnath.tech/)  
 
 ![Coding in Action](./7270403.gif)
 
@@ -41,6 +40,6 @@ I'm someone who believes that technology isn't just about solving problems —it
   <a href="http://www.instagram.com/bujjii03"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp &nbsp
   <a href="https://www.linkedin.com/in/gokulnath-v-2003g"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-
+![Coding in Action](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 ### See you in the shadows! 🦇
