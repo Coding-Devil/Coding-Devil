@@ -41,7 +41,5 @@ I'm someone who believes that technology isn't just about solving problems —it
   <a href="https://www.linkedin.com/in/gokulnath-v-2003g"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-![Coding in Action](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 ---
 ### See you in the shadows! 🦇
