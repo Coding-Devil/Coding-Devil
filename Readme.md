@@ -1,6 +1,6 @@
 # Hey, I'm Gokulnath 👋🏽
 
-### I'm a 21 year old Computer Science Engineer🌟
+### I'm a 21 year old AI Engineer🌟
 
 &ensp; 📊 *Data Science Enthusiast* - 💻 *Web Dev Wizard* - 🤖 *Prompt Engineer*
 ### 🌟**About Me:** 
