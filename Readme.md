@@ -1,8 +1,8 @@
 # Hey, I'm Gokulnath V. 👋🏽
 
-### Associate AI Engineer (R&D) at NOKIA 🌟
+### I'm a 21 year old AI Engineer🌟
 
-&ensp; 🧠 *Agentic AI Specialist* - 📊 *Scalable Data Analytics Architect* - 🚀 *AI-driven Automation Enthusiast*
+&ensp; 🧠 *AI Tools Expert* - 📊 *Scalable Data Analytics Architect* - 🚀 *AI-driven Automation Enthusiast*
 
 ---
 
