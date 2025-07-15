@@ -33,11 +33,11 @@ I'm someone who believes that technology isn't just about solving problems —it
 
 **Languages:** ``Python`` ``SQL`` ``C++`` ``Java`` ``R``
 
-**AI Methodologies & Frameworks:** ``LLM Prompting`` ``RAG`` ``Pre & Post Training`` ``Fine-tuning`` ``DPO`` ``MCP`` ``Local and API Routing`` ``CrewAI`` ``HuggingFace``
+**AI Methodologies & Frameworks:** ``LLM Prompting`` ``RAG`` ``Pre & Post Training`` ``Fine-tuning`` ``DPO`` ``MCP`` ``API Routing`` ``CrewAI`` 
 
 **Databases & Cloud:** ``AWS`` ``GCP`` ``MySQL`` ``GraphDB`` ``MongoDB`` ``SupaBase`` ``Neo4j``
 
-**Tools & Technologies:** ``Git & GitHub`` ``MS Office`` ``Power BI`` ``Docker`` ``Postman`` ``Jupyter`` ``N8N``
+**Tools & Technologies:** ``Git & GitHub`` ``MS Office`` ``Power BI`` ``Docker`` ``Postman`` ``Jupyter`` ``N8N`` ``HuggingFace``
 
 **Libraries & Frameworks:** ``React`` , ``TensorFlow`` , ``PyTorch``, ``Scikit-learn`` , ``Matplotlib``
 
