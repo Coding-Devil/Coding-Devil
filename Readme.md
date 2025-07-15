@@ -1,4 +1,4 @@
-# Hey, I'm Gokulnath V. 👋🏽
+# Hey, I'm Gokulnath 👋🏽
 
 ### I'm a 21 year old AI Engineer🌟
 
