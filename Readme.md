@@ -6,7 +6,7 @@
 ---
 
 ### 🌌 Who's Gokul?   
-He's 21. A humble Family guy. Obsessed with things that make him feel alive, even if that meant the things which puts him on the edge.  
+He's 21. A humble Family guy. Obsessed with things that make him feel alive & the kid in him happy.  
 By day — AI Engineer at **Nokia**, shaping the brain of tomorrow’s 5G networks.  
 By night — Swimming in the sea of **Sports, Bingewatching his fav shows and chasing adrenaline with his 400cc Triumph**.  
 
@@ -61,4 +61,5 @@ This isn’t the future.
 
 ### 🔮 See you in the future.  
 *I’ll be the one rewriting it.* 🦇
+
 
