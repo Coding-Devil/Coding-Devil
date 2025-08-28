@@ -1,55 +1,65 @@
-# Hey, I'm Gokulnath 👋🏽
+# GOKULNATH V. 🔥  
+### *AI Engineer | Agentic Architect | 5G & 6G Disruptor*  
 
-### I'm a 21 year old AI Engineer🌟
-
-&ensp; 🧠 *AI Tools Expert* - 📊 *Scalable Data Analytics Architect* - 🚀 *AI-driven Automation Enthusiast*
-
----
-
-### 🌟 **About Me:**
-
-Explorer by day and an avid dreamer by night, currently navigating the thrilling world of software engineering with a heart full of code and eyes set on the stars. ✨
-I'm someone who believes that technology isn't just about solving problems —it's about telling a story, creating something out of nothing and building scalable solutions that speak.
+> “I don’t build systems. I build *intelligent futures*.”  
 
 ---
 
-### 🚀 **What I'm Up To:**
+### 🌌 Who's Gokul?   
+He's 21. A humble Family guy. Obsessed with things that make him feel alive.  
+By day — AI Engineer at **Nokia**, shaping the brain of tomorrow’s 5G networks.  
+By night — Swimming in the sea of **Sports, Bingewatching his fav shows and chasing Adrenaline with his 400cc Triumph**.  
 
-* **Currently leading:** The development of Agentic AI systems for intelligent planning and automation in 5G Core Networks, leveraging LLM-driven workflows and decision-making pipelines at Nokia.
-* **Engineering autonomous agents:** With semantic reasoning and inference planning capabilities to accelerate zero-touch operations.
-* **Designing knowledge-infused AI systems:** Using RDF/OWL ontologies and graph-based inference engines to power contextual decision intelligence.
-* **Exploring:** Advanced concepts in **Deep Reinforcement Learning** for network optimization, building on my experience enhancing Self-Optimization and QoS for 6G Base Stations.
-* **Collaborating on:** Open-source projects that push the boundaries of Generative AI and multi-modal AI applications, like my Anti-GPT: AI multi-modal Hub.
+He doesn’t just *use* AI.  
+He builds AI that **thinks, reasons, and attacks complexity like a predator**.  
+
+---
+
+### 🚀 What is he Building?  
+- **Agentic AI for 5G Core Networks** — LLM-powered agents that plan, decide, and self-optimize. Zero touch. Full autonomy.  
+- **Semantic Reasoning Engines** — Injecting knowledge via **RDF/OWL ontologies** and graph-driven inference. AI that *understands*, not just predicts.  
+- **Autonomous Network Agents** — Using **Deep Reinforcement Learning** to optimize 6G base stations in real time.  
+- **FOSS Contrubutions** — Open-source rebellion against closed AI. *If supporting open-source means communism, then im the one holding the flag*  
+
+This isn’t the future.  
+**This is live. This is now. And im the one building it**
+
+---
+
+### ⚙️ My Arsenal  
+**Languages**  
+`Python` `SQL` `C++` `Java` `R`  
+
+**AI & ML**  
+`LLMs` `RAG` `Fine-tuning` `DPO` `CrewAI` `Prompt Engineering` `MCP` `API Orchestration`  
+
+**Cloud & Data**  
+`AWS` `GCP` `Neo4j` `GraphDB` `MongoDB` `Supabase` `MySQL`  
+
+**Tools**  
+`Docker` `Git` `Postman` `Jupyter` `N8N` `HuggingFace` `Power BI`  
+
+**Frameworks**  
+`PyTorch` `TensorFlow` `Scikit-learn` `React` `Matplotlib`  
+
+---
+
+---
+
+### 🌐 Let’s Connect  
+<p align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <a href="https://github.com/Coding-Devil"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/gokulnath-v-2003g"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"></a>
+  <a href="http://instagram.com/bujjii03"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"></a>
+</p>
 
 ---
 
 ![Coding in Action](./7270403.gif)
 
-> ⚡ "It's not who I am underneath, but what I do that defines me." - Bruce Wayne
+> ⚡ *"It's not who I am underneath, but what I do that defines me."* — Bruce Wayne  
 
 ---
 
-### 🛠 **My Toolbox:**
-
-**Languages:** ``Python`` ``SQL`` ``C++`` ``Java`` ``R``
-
-**AI Methodologies & Frameworks:** ``LLM Prompting`` ``RAG`` ``Pre & Post Training`` ``Fine-tuning`` ``DPO`` ``MCP`` ``API Routing`` ``CrewAI`` 
-
-**Databases & Cloud:** ``AWS`` ``GCP`` ``MySQL`` ``GraphDB`` ``MongoDB`` ``SupaBase`` ``Neo4j``
-
-**Tools & Technologies:** ``Git & GitHub`` ``MS Office`` ``Power BI`` ``Docker`` ``Postman`` ``Jupyter`` ``N8N`` ``HuggingFace``
-
-**Libraries & Frameworks:** ``React`` , ``TensorFlow`` , ``PyTorch``, ``Scikit-learn`` , ``Matplotlib``
-
----
-### 🤝 Connect
-<p align="center" style="display: flex; justify-content: center; gap: 30px;"> 
-  <a href="https://www.github.com/Coding-Devil"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a> &nbsp &nbsp
-  <a href="http://www.instagram.com/bujjii03"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp &nbsp
-  <a href="https://www.linkedin.com/in/gokulnath-v-2003g"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
-
----
-### See you in the shadows! 🦇
-
-
+### 🔮 See you in the future.  
+*I’ll be the one rewriting it.* 🦇
