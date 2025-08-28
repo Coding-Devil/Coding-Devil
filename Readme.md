@@ -1,14 +1,14 @@
-# GOKULNATH V. 🔥  
-### *AI Engineer | Agentic Architect | 5G & 6G Disruptor*  
+# GOKULNATH V. 🌟 
+### *AI Engineer | Agentic Architect | DataScience Practitioner*  
 
 > “I don’t build systems. I build *intelligent futures*.”  
 
 ---
 
 ### 🌌 Who's Gokul?   
-He's 21. A humble Family guy. Obsessed with things that make him feel alive.  
+He's 21. A humble Family guy. Obsessed with things that make him feel alive, even if that meant the things which puts him on the edge.  
 By day — AI Engineer at **Nokia**, shaping the brain of tomorrow’s 5G networks.  
-By night — Swimming in the sea of **Sports, Bingewatching his fav shows and chasing Adrenaline with his 400cc Triumph**.  
+By night — Swimming in the sea of **Sports, Bingewatching his fav shows and chasing adrenaline with his 400cc Triumph**.  
 
 He doesn’t just *use* AI.  
 He builds AI that **thinks, reasons, and attacks complexity like a predator**.  
@@ -44,8 +44,6 @@ This isn’t the future.
 
 ---
 
----
-
 ### 🌐 Let’s Connect  
 <p align="center" style="display: flex; justify-content: center; gap: 30px;">
   <a href="https://github.com/Coding-Devil"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" alt="GitHub"></a>
@@ -63,3 +61,4 @@ This isn’t the future.
 
 ### 🔮 See you in the future.  
 *I’ll be the one rewriting it.* 🦇
+
