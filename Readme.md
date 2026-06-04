@@ -39,7 +39,6 @@ This isn’t the future.
 
 ---
 
-### 🔮 See you in the future.  
-*I’ll be the one rewriting it.* 🦇
+### 🦇 See you in the shadows
 
 
