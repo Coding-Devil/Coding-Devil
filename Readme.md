@@ -1,14 +1,12 @@
 # GOKULNATH V. 🌟 
-### *AI Engineer | Agentic Architect | DataScience Practitioner*  
-
-> “I don’t build systems. I build *intelligent futures*.”  
+### *AI Engineer | Agentic Architect | DataScience Practitioner*   
 
 ---
 
 ### 🌌 Who's Gokul?   
 A 22yr old humble Family guy. Obsessed with things that make him feel alive & the kid in him happy.  
 By day — AI Engineer at **Nokia**, shaping the brain of tomorrow’s 5G networks.  
-By night — Swimming in the sea of **Sports, Bingewatching his fav shows and chasing adrenaline with his 400cc Triumph**.  
+By night — Swimming in the sea of **Sports, Bingewatching his watchlist**.  
 
 He doesn’t just *use* AI.  
 He builds AI that **thinks, reasons, and attacks complexity like a predator**.  
@@ -22,25 +20,7 @@ He builds AI that **thinks, reasons, and attacks complexity like a predator**.
 - **FOSS Contrubutions** — Open-source rebellion against closed AI. *If supporting open-source means communism, then im the one holding the flag*  
 
 This isn’t the future.  
-**This is live. This is now. And im the one building it**
-
----
-
-### ⚙️ My Arsenal  
-**Languages**  
-`Python` `SQL` `C++` `Java` `R`  
-
-**AI & ML**  
-`LLMs` `RAG` `Fine-tuning` `DPO` `CrewAI` `Prompt Engineering` `MCP` `API Orchestration`  
-
-**Cloud & Data**  
-`AWS` `GCP` `Neo4j` `GraphDB` `MongoDB` `Supabase` `MySQL`  
-
-**Tools**  
-`Docker` `Git` `Postman` `Jupyter` `N8N` `HuggingFace` `Power BI`  
-
-**Frameworks**  
-`PyTorch` `TensorFlow` `Scikit-learn` `React` `Matplotlib`  
+**This is live. This is now. And we r the ones building it**  
 
 ---
 
